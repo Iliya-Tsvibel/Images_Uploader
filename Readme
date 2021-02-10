@@ -9,3 +9,4 @@ Regarding ReactJS:
 Run npm i and then npm start
 
 Important! To avoid errors the project should be runned on https://localhost:3000 (default).
+
