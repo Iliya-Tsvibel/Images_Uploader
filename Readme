@@ -1,0 +1,11 @@
+There are 3 parts:
+1. SQL bacpac file.
+2. BackEnd on ASP.NET Core.
+3. FrontEnd on ReactJS.
+
+You can import bacpac to MSSQL directly OR to run in ASP.NET Core nugets manager console: Add-Migration "InitialCreate" and then Update-Database.
+
+Regarding ReactJS: 
+Run npm i and then npm start
+
+Important! To avoid errors the project should be runned on https://localhost:3000 (default).
