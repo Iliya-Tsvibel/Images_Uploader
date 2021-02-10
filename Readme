@@ -1,7 +1,8 @@
-There are 3 parts:
+There are 4 parts:
 1. SQL bacpac file.
 2. BackEnd on ASP.NET Core.
 3. FrontEnd on ReactJS.
+4. Folder with Images (not mandatory for example only).
 
 You can import bacpac to MSSQL directly OR to run in ASP.NET Core nugets manager console: Add-Migration "InitialCreate" and then Update-Database.
 
